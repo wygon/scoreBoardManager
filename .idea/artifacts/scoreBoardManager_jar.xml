@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scoreBoardManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scoreBoardManager_jar</output-path>
+    <root id="archive" name="scoreBoardManager.jar">
+      <element id="module-output" name="ScoreBoardManager" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>

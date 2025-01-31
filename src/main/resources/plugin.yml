@@ -1,0 +1,5 @@
+name: scoreBoardManager
+version: '1.0'
+main: plugins.scoreBoardManager.ScoreBoardManager
+api-version: '1.21'
+description: scoreboard manager
